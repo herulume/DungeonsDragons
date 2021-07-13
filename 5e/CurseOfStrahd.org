@@ -1,0 +1,124 @@
+#+TITLE: Curse of Strahd
+* General
+- Name :: Ura Cliffnote
+- Race :: Variant human
+- Free feat :: Inspiring Leader
+- Background :: Entertainer
+- Charisma - Cons - 13 Wisdom - Int - Str
+** Equipment
+- Shield - 10
+- Scale male armor - 50
+- Rapier - 25
+- Holy symbol
+- Water skins / ration
+** Backstory
+*** Before Bard's college
++ Born to a family happy family, with one younger brother, in a small village
++ Pay cult to Chauntea
++ Family owns a small shop where they sell plants and herbs
+  - The father and the sons are responsible for gathering the plants and herbs
+  - The mother mostly runs the shop
+  - It's a small business, enough to bring food to the table
+  - Ura wanted to eventually run the shop and take care of his parents and younger brother
++ Due to their knowledge of medical plants they act as local healers
++ One day a stranger came to buy some herbs, causing a commotion in the village
+  - Strangers don't pass by in a daily basis
+  - He? carried himself as a figure of importance
+  - What was this stranger doing in a small village such as this? He could surely buy herbs everywhere else, closer to a bigger town even.
+  - Ura's parents were reluctant to talk about the event, he only heard the name Dirul.
++ For the next weeks, everything went as usual with nothing of importance to note.
++ suddenly Ura was informed that he was going to attend a Bard's college.
+  - This was taken with surprise since his family wasn't wealthy enough to afford this.
+  - Furthermore, he wasn't sure that his younger brother John (age 15) was ready to take such responsibilities (taking care of the family business).
+  - His parents assured him everything was going to be ok and that his expenses were covered.
+  - Reluctantly Ura agreed to undergo to the Bard's College and make his family proud.
+*** In college
++ Ura found difficult to be satirical and provide honest criticism versus being plain rude
+  - This often got him in trouble with some teachers and classmates
+  - Others found it quirky and amusing
++ Even though Ura wasn't booksmart by any means, he soon fell in love with history and arcana. Those were his favorite subjects. He was known to be a library rat.
++ College works with a point system
+  - Points are traded for gear, luxuries, and whatnot
+  - Meals and accommodation are provided
+  - Class performance, field trips, and other activities  allow students to earn points
+  - Students can transfer their points to other students
++ This point system creates bullying situations
+  + Ura was hazed by upperclassmen.
+  + One time he was locked inside a closet for two days, traumatizing him and giving him a fear of small spaces
+  + Ura suspects that some "student gangs" are run by one or more teachers
++ One of this teachers, Vera, was responsible for organizing the first year's final field trip
+  - At the end of each year students are sent to random areas in order to assess the state of affairs for 3 months, give or take.
+  - Ura was told to simply wander in the forest late at night...
+  - He was given a rapier, some scale mail armor and a shield. Most of these things, he could not use...Even worse, no food or water were provided.
+  - Later at night, everything was eerie and surrounded by mist...eventually he simply walked into Ravenloft (he was to learn this cursed name must later.)
+  - After walking for some miles, he eventually found a inn filled with strange people. They agreed to provide him with shelter and food in exchange of musical performances.
+
+* Lvl 1
+- Bard
+** Cantrips
+- Vicious mockery
+- Dancing ligths
+** Spells
+- Healing word
+- Cure wounds
+- Heroism
+- Tasha's Hideous Laughter
+* Lvl 2
+- Cleric 1
+** Cantrips
+- Guidance
+- Spare the dying
+- Toll the Dead
+** Spells
+- Bless
+- Detect magic
+- Purify food and drink
+
+* Lvl 3
+- Bard 2
+
+* Lvl 4
+ - Bard 3
+ - Lore
+** Spells
+- Lesser restoration
+- Silence
+
+* Notes
+Casa dos dursts, procura da filha da mad marie
+ajudavam a alimentar a cidade, 50 anos
+
+pesadelos com um professor, homem alto, cabelo negro apanhado: aponta para o quadro (partituras), fez uma pergunta que nao entendi, partitura era um spell que nao reonheci (ele expulsou-me da aula)
+
+Ismark Kolyanovich  (cabelo cinza, 30 e poucos) (nasceu em barovia) (mayor da vila) , entrou no bar para falar com o bartender,
+
+Pena e carta sao comum dos últimos visitantes de barovia
+convocados pelo senhor de barovia (strahd), para um desafio de caça apeas 2 sobrviventes (velho louco, elfo Jander?)
+Strahd (vampiro) anda atras da irma do Ismark (Irina)
+
+Levar a irma ate  Vallaki  e pelo caminho parar pelo acampamento de Vistani ( Madam Eva )
+
+Madam Eva não conhece Vera, estava a espiar-nos no bar com 1 gaja
+É normal irem grupos de 4 nesta caça
+
+Madam Eva fez leitura de tarokka. 
+1ª carta (5 espadas) "grandes heróis, o destino a reverter-se, o triunfo dos desfavorecidos"
+2ª carta (8 glifos) "bispo, aderência estrita a um código a uma crença, alguns planeiam, outros fazes esquemas" 
+3ª carta (3 glifos) "curandeiros, cura de uma doença contagiosa, maldição?" 
+4ª carta "masmorra, isolamento ou emprisionamento, alguém conservador na maneira de pensar fica preso nas crenças"
+5ª carta "cara de um homem e uma forca ao fundo, morte iminente de alguém condenado de um crime (justamente ou não) "
+
+   2
+ 1 5 3
+   4
+
+Strahd não é um vampiro tipico, nao foi criado por um vampiro mas sim por um acordo com Vampyr.
+Quando Stradh era humano e o seu irmão era vivo (Sergei), prestes a casar-se com uma jovem (Tatiana).
+Strahd era conquistador, nenhum exercito se opunha a Stradh. Pretty face também. Número 1.
+Sergei era a ovelha negra. Tatiana preferiou Sergei a Strahd, Stradh apaixonou-se por Tatiana.
+Strahd ficou com Barovia e reformou-se aí. Sem saber condou-se e ao vale a ficarem aqui para sempre.
+Stradh matou Sergei no dia do casamento dela com Sergei. Tatiana atirou-se do castelo suicidamdo-se.
+Povo ficou preso desde aí. Tatiana reaparece de vez em quando.
+
+Vamos precisar de encontrar 3 items em Barovia. Juntar os 3 e só aí temos uma chance.
+Livro sobre o passado do strahd, uma espada de Sergei, um simbolo religioso da altura de stradh quando era humano.
