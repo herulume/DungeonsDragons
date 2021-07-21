@@ -17,7 +17,6 @@
   + Obaq :: V'z snfpvangrq ol gur ornhgl naq jbaqre bs guvf arj ynaq.
   + Synj :: V cergraq abg gb haqrefgnaq gur ybpny ynathntr va beqre gb nibvq vagrenpgvbaf V jbhyq engure abg unir.
 - Sngrshy zbzrag :: Lbh fnirq n evqreyrff ubefr jrnevat shyy gnpx naq unearff sebz jbyirf. Lbh bja n evqvat ubefr naq n fnqqyr, naq lbh unir cebsvpvrapl va gur Navzny Unaqyvat fxvyy.
-  V bapr fnj na rabezbhf svther jnyxvat guebhtu gur pybhqf ba n fgbezl avtug. Ng bar cbvag, gurl ybbxrq ng zr, naq gura xrcg jnyxvat.
 - Zlfgrevbhf Frperg :: V bapr fnj na rabezbhf svther jnyxvat guebhtu gur pybhqf ba n fgbezl avtug. Ng bar cbvag, gurl ybbxrq ng zr, naq gura xrcg jnyxvat.
 - Cebcurpl :: V jvyy haybpx gur frpergf bs pbafrphgvba gung gur Xela ner uvqvat. Guvf xabjyrqtr jvyy bcra zl zvaq gb n greevslvat gehgu.
 ** Fgnegvat Rdhvczrag
@@ -36,7 +35,47 @@ Obea 250 lrnef ntb va Srbyvaa, nobhg gur abegu sebz Avpbqenanf, Iba dhvpxyl sryg
 Sbe gur svefg srj uhaqerq lrnef, Iba'f yvsr jnf zneiryybhf. Gur Zrantrevr Pbnfg vf ivoenag naq shyy bs yvsr. N pbeahpbcvn bs qvssrerag phygherf, sbbq, naq fgbevrf! Jung n jbaqreshy fvtug naq ubeevoyr sbbq. Nf zhpu nf Iba gevrq, ur pbhyq arire oevat uvzfrys vagb yvxvat nalguvat bgure guna nytnr be zhfuebbzf. Gurl jrer gehyl qryvpvbhf! Bgure sbbqf jrer rqvoyr, jvgu na rssbeg, ohg ab qryvpnpl.
 Angher pna or ehguyrff naq hasbetvivat. Rirelguvat jvyy gel gb xvyy lbh, cbvfba lbh ol gevpxvat lbh jvgu jung ybbxf rqvoyr, ohg bar yrneaf ubj gb yvir va gur jvyq. Vg nccrnef, znlor ol punapr, znlor ol furre yhpx, zntvp jvyy znavsrfg vgfrys jura lbh'er va ghar jvgu angher. Haxabjvatyl gb Iba, n tebhc bs Qehvqf jrer genvavat arneol. Gurve ohefgf bs zntvp zhfg unir njnxrarq fbzrguvat vafvqr uvz. Fvapr gung qnl, Iba jnf noyr gb hfr ehqvzragnel sbezf bs zntvp.
 Qhevat bar cnegvphyne qnl, Iba sbhaq n lbhat Xbobyq jvgu n fpne ba uvf evtug purrx. Vg nccrnef ur jnf fnintryl nonaqbarq ol uvf cnpx, yrsg gb gur unaqf bs punapr. Cvgl vfa'g hfhny va angher. Cvggl pna trg lbh xvyyrq, ohg Iba unf yvirq ybat rabhtu gb xabj rirelbar arrqf n punapr. N punapr gb yvir uvf bja yvsr, n punapr gb sbetr uvf bja cngu, n punapr gb yvir nppbeqvat gb uvf gehr jvyy. Fb, Iba gbbx cvgl ba guvf xbobyq, envfvat uvz nf vs ur jnf uvf bja xvaq. Iba jnf ab sbby gubhtu, ur xarj gung ur arrqrq uryc gb grnpu guvf lbhatyvat. Sbe jrrxf gurl geniryyrq sne naq jvqr, znqyl frnepuvat sbe n xbobyq frggyrzrag gung jbhyq gnxr gurz. Jura gurl svanyyl sbhaq bar, fbzrguvat fgenatr fgnegrq gb unccra. Iba sryg n pbzcryyvat arrq gb erghea onpx ubzr, ohg uvf zrzbel jnf snqvat, naq jurer uvf ubzr vf, ur xarj ab ybatre...Gur ynfg cynpr ur erzrzorerq jnf n qrfbyngrq ornpu arne Kbeunf.
-
+** Navznyf sbe Jvyqr Funcr
+*** PE 1/4
+ 1 Onobba
+ 2 Onqtre
+ 3 Obne
+ 4 Png
+ 5 Pbj
+ 6 Qrre
+ 7 Qensg Ubefr
+ 8 Ryx
+ 9 Sbk
+10 Tbng
+11 Uner
+12 Wnpxny
+13 Yvmneq
+14 Zbhagnva Tbng
+15 Zhyr
+16 Bk
+17 Cnagure
+18 Cvt
+19 Eng
+20 Evqvat Ubefr
+21 Furrc
+22 Fyrq Qbt
+23 Jrnfry
+24 Jvyq Qbt
+25 Jby
+** Fcryyf
+*** Pnagevcf
+- Fuvyyryntu
+- Funcr Jngre
+*** Yiy 1
+- Pher Jbhaqf
+- Ragnatyr
+- Urnyvat Jbeq (ON)
+- Nofbeo Ryrzragf
+- Fcrnx jvgu Navznyf
+- Snrevr Sver
+- Faner
+- Chevsl Sbbq naq Qevax
+- Perngr be Qrfgebl Jngre
 * Abgrf
 ** Frffvba 0
 Cym tbbq ebyyf 
